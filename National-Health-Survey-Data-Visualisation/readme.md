@@ -36,7 +36,8 @@ To explore and interact with the visualizations:
 5. Interact with the visualizations to analyze different aspects of the NFHS data.
 
 ## 🤝 How to Collaborate or Connect
-Contributions, feedback, and suggestions are welcome! Feel free to fork this repository, make enhancements, or submit pull requests. For any questions, feedback, or collaboration inquiries, please create an issue or contact via [email](mailto:your.email@example.com) or [LinkedIn](https://www.linkedin.com/in/your-profile/).
+Contributions, feedback, and suggestions are welcome! Feel free to fork this repository, make enhancements, or submit pull requests. For any questions, feedback, or collaboration inquiries, please create an issue or contact me via [email](mailto:chakrabartysurashree@gmail.com) or [LinkedIn](https://www.linkedin.com/in/surashreechakrabarty/).
+
 
 ---
 
